@@ -1,0 +1,14 @@
+C:\Users\RL\desktop\Udemy\exercícios\OrientacaoAobjetos\bin\Debug\net8.0\OrientacaoAobjetos.exe
+C:\Users\RL\desktop\Udemy\exercícios\OrientacaoAobjetos\bin\Debug\net8.0\OrientacaoAobjetos.deps.json
+C:\Users\RL\desktop\Udemy\exercícios\OrientacaoAobjetos\bin\Debug\net8.0\OrientacaoAobjetos.runtimeconfig.json
+C:\Users\RL\desktop\Udemy\exercícios\OrientacaoAobjetos\bin\Debug\net8.0\OrientacaoAobjetos.dll
+C:\Users\RL\desktop\Udemy\exercícios\OrientacaoAobjetos\bin\Debug\net8.0\OrientacaoAobjetos.pdb
+C:\Users\RL\desktop\Udemy\exercícios\OrientacaoAobjetos\obj\Debug\net8.0\OrientacaoAobjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RL\desktop\Udemy\exercícios\OrientacaoAobjetos\obj\Debug\net8.0\OrientacaoAobjetos.AssemblyInfoInputs.cache
+C:\Users\RL\desktop\Udemy\exercícios\OrientacaoAobjetos\obj\Debug\net8.0\OrientacaoAobjetos.AssemblyInfo.cs
+C:\Users\RL\desktop\Udemy\exercícios\OrientacaoAobjetos\obj\Debug\net8.0\OrientacaoAobjetos.csproj.CoreCompileInputs.cache
+C:\Users\RL\desktop\Udemy\exercícios\OrientacaoAobjetos\obj\Debug\net8.0\OrientacaoAobjetos.dll
+C:\Users\RL\desktop\Udemy\exercícios\OrientacaoAobjetos\obj\Debug\net8.0\refint\OrientacaoAobjetos.dll
+C:\Users\RL\desktop\Udemy\exercícios\OrientacaoAobjetos\obj\Debug\net8.0\OrientacaoAobjetos.pdb
+C:\Users\RL\desktop\Udemy\exercícios\OrientacaoAobjetos\obj\Debug\net8.0\OrientacaoAobjetos.genruntimeconfig.cache
+C:\Users\RL\desktop\Udemy\exercícios\OrientacaoAobjetos\obj\Debug\net8.0\ref\OrientacaoAobjetos.dll
