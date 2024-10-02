@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\RL\\desktop\\Udemy\\exercícios\\OrientacaoAobjetos\\OrientacaoAobjetos.csproj": {}
+    "C:\\Users\\RL\\Desktop\\Udemy\\Exercícios\\OrientacaoAobjetos\\OrientacaoAobjetos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\RL\\desktop\\Udemy\\exercícios\\OrientacaoAobjetos\\OrientacaoAobjetos.csproj": {
+    "C:\\Users\\RL\\Desktop\\Udemy\\Exercícios\\OrientacaoAobjetos\\OrientacaoAobjetos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RL\\desktop\\Udemy\\exercícios\\OrientacaoAobjetos\\OrientacaoAobjetos.csproj",
+        "projectUniqueName": "C:\\Users\\RL\\Desktop\\Udemy\\Exercícios\\OrientacaoAobjetos\\OrientacaoAobjetos.csproj",
         "projectName": "OrientacaoAobjetos",
-        "projectPath": "C:\\Users\\RL\\desktop\\Udemy\\exercícios\\OrientacaoAobjetos\\OrientacaoAobjetos.csproj",
+        "projectPath": "C:\\Users\\RL\\Desktop\\Udemy\\Exercícios\\OrientacaoAobjetos\\OrientacaoAobjetos.csproj",
         "packagesPath": "C:\\Users\\RL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RL\\desktop\\Udemy\\exercícios\\OrientacaoAobjetos\\obj\\",
+        "outputPath": "C:\\Users\\RL\\Desktop\\Udemy\\Exercícios\\OrientacaoAobjetos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\RL\\AppData\\Roaming\\NuGet\\NuGet.Config"

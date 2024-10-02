@@ -12,3 +12,4 @@ C:\Users\RL\desktop\Udemy\exercícios\OrientacaoAobjetos\obj\Debug\net8.0\refint
 C:\Users\RL\desktop\Udemy\exercícios\OrientacaoAobjetos\obj\Debug\net8.0\OrientacaoAobjetos.pdb
 C:\Users\RL\desktop\Udemy\exercícios\OrientacaoAobjetos\obj\Debug\net8.0\OrientacaoAobjetos.genruntimeconfig.cache
 C:\Users\RL\desktop\Udemy\exercícios\OrientacaoAobjetos\obj\Debug\net8.0\ref\OrientacaoAobjetos.dll
+C:\Users\RL\desktop\Udemy\exercícios\OrientacaoAobjetos\obj\Debug\net8.0\OrientacaoAobjetos.sourcelink.json
